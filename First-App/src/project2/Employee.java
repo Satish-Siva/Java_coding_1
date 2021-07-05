@@ -34,15 +34,5 @@ public class Employee {
 		System.out.println("SALARY :" +Salary);
 		}
 
-		public static void main (String[] args) {
-
-			Employee E1= new Employee();
-
-
-			E1.ID="118A2093";
-			E1.name="Satish kumar sivaraman";
-			E1.Salary=123456;
 		
-			E1.display();
-		}
 }
